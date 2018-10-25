@@ -1,5 +1,5 @@
 /*-----------------------------------------------------//
-// *****Program to implement BUBBLE SORT using c++***** //
+// *****Program to implement SELECTION SORT using c++***** //
 //-----------------------------------------------------*/
 #include<bits/stdc++.h>
 using namespace std;
