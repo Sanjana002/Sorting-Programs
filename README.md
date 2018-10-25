@@ -1,2 +1,2 @@
 # Sorting-Programs
-All types of sorting techniques are in this repository
+All types of sorting techniques are in this repository.
